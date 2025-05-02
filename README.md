@@ -1,1 +1,1 @@
-Welcome to my Edocconect data science repository!
+Welcome to my Educconect data science repository!
